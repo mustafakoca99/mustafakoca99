@@ -19,7 +19,7 @@ I love learning, mathematics, literature and software. I am the author of two bo
 <h3 align="left">Connect with me:</h3>
 <table>
   <tr>
-    <td><a href="https://twitter.com/mustafaakocaa99" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a></td>
+    <td><a href="https://x.com/mustafaakocaa99" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a></td>
     <td><a href="https://linkedin.com/in/mustafakoca99" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a></td>
     <td><a href="https://instagram.com/mustafakoca99" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a></td>
     <td><a href="https://medium.com/@mustafakoca220" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="medium" height="30" width="40" /></a></td>
