@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,5,8,10&height=300&section=header&text=Mustafa%20Koca&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20|%20Author%20|%20AI%20Researcher&descAlignY=51&descSize=20)
-
 Hi there<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> 
 
 I develop full-stack web applications using end-to-end application frameworks. I actively support and produce open-source projects. I use Git technology extensively. I focus on software development, software testing, database management and cloud computing.
@@ -40,6 +38,8 @@ I love learning, mathematics, literature and software. I am the author of two bo
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+[![E-Book](https://img.shields.io/badge/Yapay_Zeka_Kitabı-Satın_Al-E1171E?style=for-the-badge&logo=google-books&logoColor=white)](LINK_BURAYA)
+[![Shopier](https://img.shields.io/badge/Shopier-Mağazam-20b2aa?style=for-the-badge&logo=shopee&logoColor=white)](LINK_BURAYA)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mustafakoca99&" alt="mustafakoca99" /></p>
 
