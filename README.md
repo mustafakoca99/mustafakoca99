@@ -38,7 +38,7 @@ I love learning, mathematics, literature and software. I am the author of two bo
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mustafakoca99&theme=nord_dark)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7DF1E&width=435&lines=Senior+Software+Developer;Expert+in+.NET+9+%26+Angular;AI+Enthusiast+%26+Author)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mustafakoca99&" alt="mustafakoca99" /></p>
 
