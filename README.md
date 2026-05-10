@@ -40,14 +40,7 @@ I love learning, mathematics, literature and software. I am the author of two bo
 
 [![E-Book](https://img.shields.io/badge/Yapay_Zeka_Kitabı-Satın_Al-E1171E?style=for-the-badge&logo=google-books&logoColor=white)](https://play.google.com/store/books/details?id=k4zWEQAAQBAJ&pli=1)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mustafakoca99&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafakoca99&layout=compact&theme=radical" width="48%" />
-</div>
-<br/>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mustafakoca99&theme=radical" width="100%" />
-</div>
+![Isometric Calendar](https://raw.githubusercontent.com/mustafakoca99/mustafakoca99/output/iso_main.png)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mustafakoca99&" alt="mustafakoca99" /></p>
 
