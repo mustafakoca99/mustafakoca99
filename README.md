@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7DF1E&width=435&lines=Senior+Software+Developer;Expert+in+.NET+9+%26+Angular;AI+Enthusiast+%26+Author)
+![github contribution grid snake animation](https://raw.githubusercontent.com/mustafakoca99/mustafakoca99/output/github-contribution-grid-snake.svg)
 
 Hi there<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> 
 
