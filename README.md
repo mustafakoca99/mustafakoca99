@@ -1,4 +1,4 @@
-![github contribution grid snake animation](https://raw.githubusercontent.com/mustafakoca99/mustafakoca99/output/github-contribution-grid-snake.svg)
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,5,8,10&height=300&section=header&text=Mustafa%20Koca&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20|%20Author%20|%20AI%20Researcher&descAlignY=51&descSize=20)
 
 Hi there<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> 
 
