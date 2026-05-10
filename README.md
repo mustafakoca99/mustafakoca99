@@ -1,53 +1,62 @@
-# Hi there! 👋 I'm Mustafa Koca
+# Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
-### Full-Stack Developer | Author | Blogger
+I develop full-stack web applications using end-to-end application frameworks. I actively support and produce open-source projects. I use Git technology extensively. I focus on software development, software testing, database management and cloud computing.
+
+---
+
+### 🛠 Skills & Knowledge
+
+*   ▪️ I am knowledgeable in C, C++, C#, Java, HTML5+, CSS3+, Bootstrap, JavaScript, PHP, Matlab, and Python.
+*   📎 I work with .NET, including LINQ & Dapper, Authentication & Authorization, Localization, Caching, Logging, Filters, Middleware, Dependency Injection, Mapping and Background Jobs.
+*   ▪️ I develop Web API, RESTful API and WSDL web services.
+*   ▪️ I create SignalR WebSocket applications.
+*   ▪️ I have experience with various WordPress projects.
+*   ▪️ I work with MsSQL Server, MySQL, Ms Access and Microsoft Azure.
+
+---
+
+### 📚 Interests & Literature
+
+I love learning, mathematics, literature and software. I am the author of two books: **"En Zor Rakip 'Sensin'"** and **"Bütün Eskileri Eskici Alır mı?"** I believe that mathematics is a fundamental part of life and that literature is a cornerstone of culture. Additionally, I am a blogger and newspaper writer.
+
+---
+
+### 🚀 Current Status
+
+- 🔭 I am currently working in every field, trying to improve myself
+- 🤔 Youtube: [Mustafa Koca ▶️](https://www.youtube.com/channel/UCEOgptjepYwXTh1wtBlwVgA)
+
+---
+
+### 💻 Technologies I Use
 
 <p align="left">
-  <a href="https://linkedin.com/in/mustafakoca99" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://medium.com/@mustafakoca220" target="blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
-  <a href="https://x.com/mustafaakocaa99" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://instagram.com/mustafakoca99" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/.NET%209-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+[![E-Book](https://img.shields.io/badge/The_Book_of_Artificial_Intelligence-Buy-E1171E?style=for-the-badge&logo=google-books&logoColor=white)](https://play.google.com/store/books/details?id=k4zWEQAAQBAJ&pli=1)
+
+---
+
+### 📊 Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mustafakoca99&theme=radical" alt="mustafakoca99" />
 </p>
 
 ---
 
-### 🚀 About Me
+### 📫 Connect with me
 
-I am a Full-Stack Web Developer focused on building end-to-end applications and contributing to the open-source ecosystem. I bridge the gap between the technical precision of software engineering and the cultural depth of literature.
-
-- 🔭 **Currently:** Working across multiple fields to enhance my skills and exploring autonomous AI agents.
-- 📚 **Literature:** Published author of two books: *"En Zor Rakip 'Sensin'"* and *"Bütün Eskileri Eskici Alır mı?"*
-- ✍️ **Writing:** Active blogger and newspaper columnist sharing insights on technology and culture.
-- 🎥 **YouTube:** [Mustafa Koca ▶️](https://www.youtube.com/channel/UCEOgptjepYwXTh1wtBlwVgA)
-
----
-
-### 🛠️ Technical Stack
-
-| Category | Technologies |
-| :--- | :--- |
-| **Backend** | ![.NET 9](https://img.shields.io/badge/.NET%209-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) Java, PHP, Python, C++, Node.js |
-| **Frontend** | ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) HTML5, CSS3, Bootstrap |
-| **Database & Cloud** | ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white) MySQL, Azure, Ms Access |
-| **Core Skills** | RESTful & WSDL APIs, SignalR (WebSockets), Git, Unit Testing, Cloud Computing |
-
----
-
-### 📖 Featured Work
-
-> **The Book of Artificial Intelligence**  
-> [![E-Book](https://img.shields.io/badge/View_E--Book-Buy-E1171E?style=for-the-badge&logo=google-books&logoColor=white)](https://play.google.com/store/books/details?id=k4zWEQAAQBAJ)
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mustafakoca99&theme=dark" alt="mustafakoca99 streak" />
-</p>
-
----
-
-<p align="center">
-  <i>"I believe that mathematics is the foundation of life and literature is the cornerstone of culture."</i>
+<p align="left">
+  <a href="https://x.com/mustafaakocaa99" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/mustafakoca99" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+  <a href="https://instagram.com/mustafakoca99" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
+  <a href="https://medium.com/@mustafakoca220" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="medium" height="30" width="40" /></a>
 </p>
