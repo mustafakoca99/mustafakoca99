@@ -31,7 +31,8 @@ I love learning, mathematics, literature and software. I am the author of two bo
 
 ### Technologies I Use
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=dotnet,cs,angular,mssql,js,ts,html,css,git,bootstrap,visualstudio,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=dotnet,cs,angular,js,ts,html,css,git,bootstrap,visualstudio&theme=dark" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
 </p>
 
 ![mustafakoca99's github stats](https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=mustafakoca99&show_icons=true&theme=vision-friendly-dark)
