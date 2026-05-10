@@ -40,7 +40,7 @@ I love learning, mathematics, literature and software. I am the author of two bo
 
 [![E-Book](https://img.shields.io/badge/Yapay_Zeka_Kitabı-Satın_Al-E1171E?style=for-the-badge&logo=google-books&logoColor=white)](https://play.google.com/store/books/details?id=k4zWEQAAQBAJ&pli=1)
 
-[![Medium Card](https://github-readme-medium-card.vercel.app/getCard?username=mustafakoca220&theme=dark)](https://medium.com/@mustafakoca220)
+[![Medium](https://img.shields.io/badge/Medium-Yazılarıma_Göz_At-black?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@mustafakoca220)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mustafakoca99&" alt="mustafakoca99" /></p>
 
