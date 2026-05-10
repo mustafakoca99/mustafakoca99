@@ -2,8 +2,6 @@ Hi there<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandh
 
 I develop full-stack web applications using end-to-end application frameworks. I actively support and produce open-source projects. I use Git technology extensively. I focus on software development, software testing, database management and cloud computing.
 
----
-
 ▪️ I am knowledgeable in C, C++, C#, Java, HTML5+, CSS3+, Bootstrap, JavaScript, PHP, Matlab, and Python.
 
 📎 I work with .NET, including LINQ & Dapper, Authentication & Authorization, Localization, Caching, Logging, Filters, Middleware, Dependency Injection, Mapping and Background Jobs.
@@ -15,8 +13,6 @@ I develop full-stack web applications using end-to-end application frameworks. I
 ▪️ I have experience with various WordPress projects.
 
 ▪️ I work with MsSQL Server, MySQL, Ms Access and Microsoft Azure.
-
----
 
 I love learning, mathematics, literature and software. I am the author of two books: "En Zor Rakip 'Sensin'" and "Bütün Eskileri Eskici Alır mı?" I believe that mathematics is a fundamental part of life and that literature is a cornerstone of culture. Additionally, I am a blogger and newspaper writer.
 
@@ -32,8 +28,6 @@ I love learning, mathematics, literature and software. I am the author of two bo
   </tr>
 </table>
 
----
-
 - 🔭 I am currently working in every field, trying to improve myself
 - 🤔 Youtube: [Mustafa Koca ▶️](https://www.youtube.com/channel/UCEOgptjepYwXTh1wtBlwVgA)
 
@@ -47,8 +41,6 @@ I love learning, mathematics, literature and software. I am the author of two bo
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
 
 [![E-Book](https://img.shields.io/badge/The_Book_of_Artificial_Intelligence-Buy-E1171E?style=for-the-badge&logo=google-books&logoColor=white)](https://play.google.com/store/books/details?id=k4zWEQAAQBAJ&pli=1)
 
