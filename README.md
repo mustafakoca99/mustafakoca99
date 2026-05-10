@@ -1,5 +1,3 @@
-![Capsule Render](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Mustafa%20Koca&fontSize=90)
-
 Hi there<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> 
 
 I develop full-stack web applications using end-to-end application frameworks. I actively support and produce open-source projects. I use Git technology extensively. I focus on software development, software testing, database management and cloud computing.
@@ -31,6 +29,7 @@ I love learning, mathematics, literature and software. I am the author of two bo
 - 🔭 I am currently working in every field, trying to improve myself
 - 🤔 Youtube: [Mustafa Koca ▶️](https://www.youtube.com/channel/UCEOgptjepYwXTh1wtBlwVgA)
 
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=mustafakoca99.mustafakoca99)
 
 ![mustafakoca99's github stats](https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=mustafakoca99&show_icons=true&theme=vision-friendly-dark)
 
