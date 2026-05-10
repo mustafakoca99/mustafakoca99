@@ -38,7 +38,7 @@ I love learning, mathematics, literature and software. I am the author of two bo
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-![mustafakoca99's github stats](https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=mustafakoca99&show_icons=true&theme=vision-friendly-dark)
+![Metrics](https://metrics.lecoq.io/mustafakoca99?template=classic&languages=1&languages.sections=most-used&languages.indepth=true&theme=dark)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mustafakoca99&" alt="mustafakoca99" /></p>
 
