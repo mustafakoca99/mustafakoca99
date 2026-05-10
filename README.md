@@ -36,7 +36,6 @@ I am a Full-Stack Web Developer focused on building end-to-end applications and 
 ### 📖 Featured Work
 
 > **The Book of Artificial Intelligence**  
-> My latest work exploring the new world in the age of AI.  
 > [![E-Book](https://img.shields.io/badge/View_E--Book-Buy-E1171E?style=for-the-badge&logo=google-books&logoColor=white)](https://play.google.com/store/books/details?id=k4zWEQAAQBAJ)
 
 ---
