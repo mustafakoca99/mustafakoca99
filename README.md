@@ -16,7 +16,6 @@ I develop full-stack web applications using end-to-end application frameworks. I
 
 I love learning, mathematics, literature and software. I am the author of two books: "En Zor Rakip 'Sensin'" and "Bütün Eskileri Eskici Alır mı?" I believe that mathematics is a fundamental part of life and that literature is a cornerstone of culture. Additionally, I am a blogger and newspaper writer.
 
----
 
 <h3 align="left">Connect with me:</h3>
 <table>
@@ -29,9 +28,8 @@ I love learning, mathematics, literature and software. I am the author of two bo
 </table>
 
 - 🔭 I am currently working in every field, trying to improve myself
-- 🤔 Youtube: [Mustafa Koca ▶️](https://www.youtube.com/channel/UCEOgptjepYwXTh1wtBlwVgA)
+- <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/156e6e9a-5c38-46ce-a71d-d1fa145d4ca6" /> Youtube: [Mustafa Koca ▶️](https://www.youtube.com/channel/UCEOgptjepYwXTh1wtBlwVgA)
 
----
 
 ### Technologies I Use
 ![.NET 9](https://img.shields.io/badge/.NET%209-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
