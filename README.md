@@ -1,44 +1,54 @@
-Hi there<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> 
+# Hi there! 👋 I'm Mustafa Koca
 
-I develop full-stack web applications using end-to-end application frameworks. I actively support and produce open-source projects. I use Git technology extensively. I focus on software development, software testing, database management and cloud computing.
+### Full-Stack Developer | Author | Blogger
 
-▪️ I am knowledgeable in C, C++, C#, Java, HTML5+, CSS3+, Bootstrap, JavaScript, PHP, Matlab, and Python.
+<p align="left">
+  <a href="https://linkedin.com/in/mustafakoca99" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://medium.com/@mustafakoca220" target="blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
+  <a href="https://x.com/mustafaakocaa99" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://instagram.com/mustafakoca99" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</p>
 
-📎 I work with .NET, including LINQ & Dapper, Authentication & Authorization, Localization, Caching, Logging, Filters, Middleware, Dependency Injection, Mapping and Background Jobs.
+---
 
-▪️ I develop Web API, RESTful API and WSDL web services.
+### 🚀 About Me
 
-▪️ I create SignalR WebSocket applications.
+I am a Full-Stack Web Developer focused on building end-to-end applications and contributing to the open-source ecosystem. I bridge the gap between the technical precision of software engineering and the cultural depth of literature.
 
-▪️ I have experience with various WordPress projects.
+- 🔭 **Currently:** Working across multiple fields to enhance my skills and exploring autonomous AI agents.
+- 📚 **Literature:** Published author of two books: *"En Zor Rakip 'Sensin'"* and *"Bütün Eskileri Eskici Alır mı?"*
+- ✍️ **Writing:** Active blogger and newspaper columnist sharing insights on technology and culture.
+- 🎥 **YouTube:** [Mustafa Koca ▶️](https://www.youtube.com/channel/UCEOgptjepYwXTh1wtBlwVgA)
 
-▪️ I work with MsSQL Server, MySQL, Ms Access and Microsoft Azure.
+---
 
-I love learning, mathematics, literature and software. I am the author of two books: "En Zor Rakip 'Sensin'" and "Bütün Eskileri Eskici Alır mı?" I believe that mathematics is a fundamental part of life and that literature is a cornerstone of culture. Additionally, I am a blogger and newspaper writer.
+### 🛠️ Technical Stack
 
-<h3 align="left">Connect with me:</h3>
-<table>
-  <tr>
-    <td><a href="https://x.com/mustafaakocaa99" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a></td>
-    <td><a href="https://linkedin.com/in/mustafakoca99" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a></td>
-    <td><a href="https://instagram.com/mustafakoca99" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a></td>
-    <td><a href="https://medium.com/@mustafakoca220" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="medium" height="30" width="40" /></a></td>
-  </tr>
-</table>
+| Category | Technologies |
+| :--- | :--- |
+| **Backend** | ![.NET 9](https://img.shields.io/badge/.NET%209-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) Java, PHP, Python, C++, Node.js |
+| **Frontend** | ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) HTML5, CSS3, Bootstrap |
+| **Database & Cloud** | ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white) MySQL, Azure, Ms Access |
+| **Core Skills** | RESTful & WSDL APIs, SignalR (WebSockets), Git, Unit Testing, Cloud Computing |
 
-- 🔭 I am currently working in every field, trying to improve myself
-- 🤔 Youtube: [Mustafa Koca ▶️](https://www.youtube.com/channel/UCEOgptjepYwXTh1wtBlwVgA)
+---
 
-### Technologies I Use
-![.NET 9](https://img.shields.io/badge/.NET%209-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+### 📖 Featured Work
 
-[![E-Book](https://img.shields.io/badge/The_Book_of_Artificial_Intelligence-Buy-E1171E?style=for-the-badge&logo=google-books&logoColor=white)](https://play.google.com/store/books/details?id=k4zWEQAAQBAJ&pli=1)
+> **The Book of Artificial Intelligence**  
+> My latest work exploring the new world in the age of AI.  
+> [![E-Book](https://img.shields.io/badge/View_E--Book-Buy-E1171E?style=for-the-badge&logo=google-books&logoColor=white)](https://play.google.com/store/books/details?id=k4zWEQAAQBAJ)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mustafakoca99&" alt="mustafakoca99" /></p>
+---
 
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mustafakoca99&theme=dark" alt="mustafakoca99 streak" />
+</p>
+
+---
+
+<p align="center">
+  <i>"I believe that mathematics is the foundation of life and literature is the cornerstone of culture."</i>
+</p>
