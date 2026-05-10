@@ -38,9 +38,7 @@ I love learning, mathematics, literature and software. I am the author of two bo
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-[![E-Book](https://img.shields.io/badge/Yapay_Zeka_Kitabı-Satın_Al-E1171E?style=for-the-badge&logo=google-books&logoColor=white)](https://play.google.com/store/books/details?id=k4zWEQAAQBAJ&pli=1)
-
-[![Medium](https://img.shields.io/badge/Medium-Yazılarıma_Göz_At-black?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@mustafakoca220)
+[![E-Book](https://img.shields.io/badge/The_Book_of_Artificial_Intelligence-Buy-E1171E?style=for-the-badge&logo=google-books&logoColor=white)](https://play.google.com/store/books/details?id=k4zWEQAAQBAJ&pli=1)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mustafakoca99&" alt="mustafakoca99" /></p>
 
