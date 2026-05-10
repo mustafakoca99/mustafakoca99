@@ -38,7 +38,7 @@ I love learning, mathematics, literature and software. I am the author of two bo
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-[![wakatime](https://wakatime.com/share/@mustafakoca99/62235948-e87a-427c-95b8-500b4198083c.svg)](https://wakatime.com/dashboard)
+![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mustafakoca99&theme=nord_dark)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mustafakoca99&" alt="mustafakoca99" /></p>
 
