@@ -30,10 +30,13 @@ I love learning, mathematics, literature and software. I am the author of two bo
 - 🤔 Youtube: [Mustafa Koca ▶️](https://www.youtube.com/channel/UCEOgptjepYwXTh1wtBlwVgA)
 
 ### Technologies I Use
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=dotnet,cs,angular,js,ts,html,css,git,bootstrap,visualstudio&theme=dark" />
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
-</p>
+![.NET 9](https://img.shields.io/badge/.NET%209-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ![mustafakoca99's github stats](https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=mustafakoca99&show_icons=true&theme=vision-friendly-dark)
 
