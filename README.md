@@ -28,7 +28,7 @@ I love learning, mathematics, literature and software. I am the author of two bo
 </table>
 
 - 🔭 I am currently working in every field, trying to improve myself
-- <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/156e6e9a-5c38-46ce-a71d-d1fa145d4ca6" /> Youtube: [Mustafa Koca ▶️](https://www.youtube.com/channel/UCEOgptjepYwXTh1wtBlwVgA)
+- 🖥️ Youtube: [Mustafa Koca ▶️](https://www.youtube.com/channel/UCEOgptjepYwXTh1wtBlwVgA)
 
 
 ### Technologies I Use
