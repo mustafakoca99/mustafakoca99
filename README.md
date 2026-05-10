@@ -29,10 +29,7 @@ I love learning, mathematics, literature and software. I am the author of two bo
 - 🔭 I am currently working in every field, trying to improve myself
 - 🤔 Youtube: [Mustafa Koca ▶️](https://www.youtube.com/channel/UCEOgptjepYwXTh1wtBlwVgA)
 
-### Kullandığım Teknolojiler
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=dotnet,cs,angular,sqlserver,js,ts,html,css,git,bootstrap&theme=dark" />
-</p>
+[![mustafakoca99's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mustafakoca99&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ![mustafakoca99's github stats](https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=mustafakoca99&show_icons=true&theme=vision-friendly-dark)
 
