@@ -29,9 +29,10 @@ I love learning, mathematics, literature and software. I am the author of two bo
 - 🔭 I am currently working in every field, trying to improve myself
 - 🤔 Youtube: [Mustafa Koca ▶️](https://www.youtube.com/channel/UCEOgptjepYwXTh1wtBlwVgA)
 
-![.NET 9](https://img.shields.io/badge/.NET%209-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+### Technologies I Use
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=dotnet,cs,angular,mssql,js,ts,html,css,git,bootstrap,visualstudio,vscode&theme=dark" />
+</p>
 
 ![mustafakoca99's github stats](https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=mustafakoca99&show_icons=true&theme=vision-friendly-dark)
 
