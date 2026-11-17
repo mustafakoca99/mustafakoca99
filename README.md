@@ -1,20 +1,18 @@
 Hi there<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> 
 
-I develop full-stack web applications using end-to-end application frameworks. I actively support and produce open-source projects. I use Git technology extensively. I focus on software development, software testing, database management and cloud computing.
+I design scalable full-stack web solutions using end-to-end modern application architectures, bringing independent digital initiatives and software to life with active contributions to the open-source ecosystem. I deliver high-value results in software development, database optimization, cloud infrastructures, and automation processes using advanced Git workflows.
 
-▪️ I am knowledgeable in C, C++, C#, Java, HTML5+, CSS3+, Bootstrap, JavaScript, PHP, Matlab, and Python.
+▪️ Technical Skills: C, C++, C#, Java, HTML5, CSS3, Bootstrap, JavaScript, TypeScript, Angular, React / Next.js, PHP, MATLAB and Python (FastAPI).
 
-📎 I work with .NET, including LINQ & Dapper, Authentication & Authorization, Localization, Caching, Logging, Filters, Middleware, Dependency Injection, Mapping and Background Jobs.
+📎 Modern Architecture & .NET Expertise: LINQ & Dapper architectures, Authentication & Authorization, Localization, Caching, Logging mechanisms, Filters, Middleware structures, Dependency Injection, Object Mapping, and Background Jobs within the .NET ecosystem.
 
-▪️ I develop Web API, RESTful API and WSDL web services.
+▪️ Services & Real-Time Systems: Web API, RESTful API integrations, SOAP/WSDL web services, and SignalR-based real-time WebSocket applications.
 
-▪️ I create SignalR WebSocket applications.
+▪️ SaaS Ventures & Products: Multi-tenant SaaS-architected web applications Odak - TaskMaster, ArbitrageVision,  alongside modern web and automation projects.
 
-▪️ I have experience with various WordPress projects.
+▪️ Database & Cloud: PostgreSQL, MS SQL Server, MySQL, MS Access, Microsoft Azure, and modern cloud deployment processes.
 
-▪️ I work with MsSQL Server, MySQL, Ms Access and Microsoft Azure.
-
-I love learning, mathematics, literature and software. I am the author of two books: "En Zor Rakip 'Sensin'" and "Bütün Eskileri Eskici Alır mı?" I believe that mathematics is a fundamental part of life and that literature is a cornerstone of culture. Additionally, I am a blogger and newspaper writer.
+Beyond technology, I position learning, mathematics, literature, and software philosophy at the core of my life. I am also the author of two books: “En Zor Rakip 'Sensin'” and “Bütün Eskileri Eskici Alır mı?”. I believe that mathematics is the language of the universe and literature is the cornerstone of culture. I continue to share my creative journey through digital platforms and my column writings.
 
 
 <h3 align="left">Connect with me:</h3>
