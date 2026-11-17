@@ -25,7 +25,6 @@ Beyond technology, I position learning, mathematics, literature, and software ph
   </tr>
 </table>
 
-- 🔭 I am currently working in every field, trying to improve myself
 - 🖥️ Youtube: [Syntaxiom Digital ▶️](https://www.youtube.com/channel/UCEOgptjepYwXTh1wtBlwVgA)
 
 [![E-Book](https://img.shields.io/badge/The_Book_of_Artificial_Intelligence-Buy-E1171E?style=for-the-badge&logo=google-books&logoColor=white)](https://play.google.com/store/books/details?id=k4zWEQAAQBAJ&pli=1)
